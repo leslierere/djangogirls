@@ -49,3 +49,6 @@ Between the `` and `` tags, after the links to the Bootstrap CSS files, add this
 <link rel="stylesheet" href="{% static 'css/blog.css' %}">
 ```
 
+
+
+We really recommend taking the free online courses "Basic HTML & HTML5" and "Basic CSS" on [freeCodeCamp](https://learn.freecodecamp.org/). They can help you learn all about making your websites prettier with HTML and CSS.
